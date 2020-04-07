@@ -1,0 +1,22 @@
+GROCERY_PICKUP,I need someone to pick up groceries
+MEDICATION_PICKUP,I need medication
+MEDICATION_PICKUP,Can someone pick up my medication
+MEDICATION_PICKUP,Medication pickup
+MEDICATION_PICKUP,Pickup required medication
+GROCERY_PICKUP,Can someone pick up my groceries?
+GROCERY_PICKUP,Can someone deliver groceries?
+GROCERY_PICKUP,I need food from the shop
+GROCERY_PICKUP,I don't have any food
+GROCERY_PICKUP,I have run out of food
+MEDICATION_PICKUP,I have run out of medications
+MEDICATION_PICKUP,I am running out of pills
+MEDICATION_PICKUP,I am running out of drugs
+LONELY,I am feeling lonely
+LONELY,I need someone to talk to
+LONELY,Do you have someone who I can talk to
+TECH_HELP,I need someone to help with my computer
+TECH_HELP,My tablet isn't working
+TECH_HELP,My computer isn't working
+DOG_WALKING,Can someone walk my dog?
+DOG_WALKING,Walking my dog
+DOG_WALKING,My pet needs a walk
