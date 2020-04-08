@@ -29,3 +29,11 @@ GROCERY_PICKUP,Kai bag delivery
 LONELY,I don't have anyone to talk to in my community
 LONELY,Can someone call me I would like a chat
 LONELY,Can anyone contact me?
+LONELY,I am unable to speak to anyone during the lockdown, can someone give me a call?
+LONELY,Lockdown means I can't get out to speak to anyone
+LONELY,I am quite lonely and can't speak to anyone, could someone contact me?
+DOG_WALKING,I can't get out to walk my dog, can someone help me?
+DOG_WALKING,My dog needs a walk but I am unable to get out
+TECH_HELP,My computer is broken can someone help
+TECH_HELP,My internet connection is not working
+TECH_HELP,My iPad is broken
